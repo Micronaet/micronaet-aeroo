@@ -1,2 +1,1 @@
-# micronaet-aeroo
-Copy of original branch aeroo report alistek
+Alpha version of Aeroo Reports for odoo v8 aka OpenERP v8
